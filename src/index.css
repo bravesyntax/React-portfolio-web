@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+  transition: 0.5s linear;
+  scrollbar-width: none !important;
+}
+
+.resume {
+  height: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+    url("./assets/robotbg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+.clientsBackground {
+  height: 100%;
+  background: url("./assets/clients3.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+/* From Uiverse.io by vinodjangid07 */
+.ExploreButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 10px;
+  cursor: pointer;
+  border: 1px solid whitesmoke;
+}
+
+.ExploreText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  padding: 10px 20px;
+}
+
+.arrow path {
+  fill: rgb(19, 19, 19);
+}
+
+.ExploreButton:hover .arrow {
+  animation: slide-in-left 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+@keyframes slide-in-left {
+  0% {
+    transform: translateX(-8px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+.ExploreButton:active {
+  transform: scale(0.97);
+}
