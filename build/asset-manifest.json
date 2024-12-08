@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d13c45d.css",
+    "main.js": "/static/js/main.42f5ae86.js",
+    "static/media/userImage.png": "/static/media/userImage.ad0363ff480e7a14fe04.png",
+    "static/media/robotbg.jpg": "/static/media/robotbg.b5999be4ffb46e257113.jpg",
+    "static/media/PS-fresh.png": "/static/media/PS-fresh.98991a7e634046c44193.png",
+    "static/media/PS-hotelthegrand.jpg": "/static/media/PS-hotelthegrand.a61c04fa559f95c881bb.jpg",
+    "static/media/PS-recipe.jpg": "/static/media/PS-recipe.92afe79250e0cd89a4ff.jpg",
+    "static/media/PS-dropdownHeader.jpg": "/static/media/PS-dropdownHeader.e8c375a0242ecc2bee3e.jpg",
+    "static/media/PS-multiStepForm.jpg": "/static/media/PS-multiStepForm.a720ac8e25526202b867.jpg",
+    "static/media/PS-contactForm.jpg": "/static/media/PS-contactForm.361a2e20d7abb7f3c8ba.jpg",
+    "static/media/wordpress.png": "/static/media/wordpress.e79ea0a15ef47680a9c2.png",
+    "static/media/shopify.png": "/static/media/shopify.147912d912057a9ed105.png",
+    "static/media/app-development.png": "/static/media/app-development.8636d9d694e370136d5e.png",
+    "static/media/web-development.png": "/static/media/web-development.e4268947ccf81f045d93.png",
+    "static/media/user-interface.png": "/static/media/user-interface.71fbb472a575921ca466.png",
+    "static/media/themeCustomization.png": "/static/media/themeCustomization.a61e02aa60faa8a39c4a.png",
+    "static/media/brave stntax (2) (1).png": "/static/media/brave stntax (2) (1).20301df8ee5f2a2debeb.png",
+    "static/media/clients3.avif": "/static/media/clients3.bd6ce07f778bca525a99.avif",
+    "index.html": "/index.html",
+    "main.1d13c45d.css.map": "/static/css/main.1d13c45d.css.map",
+    "main.42f5ae86.js.map": "/static/js/main.42f5ae86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d13c45d.css",
+    "static/js/main.42f5ae86.js"
+  ]
+}
