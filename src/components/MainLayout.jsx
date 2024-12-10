@@ -8,6 +8,7 @@ import Resume from "./Resume";
 import Clients from "./Clients";
 import ContactUs from "./ContactUs";
 import { IoIosArrowForward } from "react-icons/io";
+import Footer from "./Footer";
 
 const MainLayout = () => {
   const [hideMenu, setHideMenu] = useState("translate-x-[100%]");
@@ -32,6 +33,7 @@ const MainLayout = () => {
         <PortfolioSlider />
         <Clients />
         <ContactUs />
+        <Footer />
       </div>
     </div>
   );
