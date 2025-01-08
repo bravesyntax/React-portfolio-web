@@ -67,7 +67,7 @@ export const sliderData = [
     description:
       "Luxurious hotel page highlighting premium services and stunning aesthetics.",
     src: slider1,
-    link: "https://deepak-angry-coder.github.io/hotel-the-grand/",
+    link: "https://bravesyntax.github.io/hotel-the-grand/",
   },
   {
     id: 2,
@@ -75,7 +75,7 @@ export const sliderData = [
     description:
       "Dynamic dropdown header showcasing responsive design and interactivity.",
     src: slider2,
-    link: "https://deepak-angry-coder.github.io/Dropdown-header/",
+    link: "https://bravesyntax.github.io/Dropdown-header/",
   },
   {
     id: 3,
@@ -83,7 +83,7 @@ export const sliderData = [
     description:
       "Modern food store page showcasing menu items with sleek design and user-friendly interface.",
     src: slider3,
-    link: "https://deepak-angry-coder.github.io/food_store/",
+    link: "https://bravesyntax.github.io/food_store/",
   },
   {
     id: 4,
@@ -91,7 +91,7 @@ export const sliderData = [
     description:
       "Seamless multi-step form with intuitive navigation and modern design.",
     src: slider4,
-    link: "https://multi-step-form-rk83xck94-deepak-angry-coders-projects.vercel.app/",
+    link: "https://bravesyntax.github.io/Multi-step-form/",
   },
   {
     id: 5,
@@ -99,7 +99,7 @@ export const sliderData = [
     description:
       "Modern recipe page with visually appealing layout and responsiveness.",
     src: slider5,
-    link: "https://deepak-angry-coder.github.io/Recipe-Page/",
+    link: "https://bravesyntax.github.io/react-page/",
   },
 
   {
@@ -108,7 +108,7 @@ export const sliderData = [
     description:
       "Interactive contact form with real-time input validation and user-friendly design.",
     src: slider6,
-    link: "https://deepak-angry-coder.github.io/Validation-Contact-From/",
+    link: "https://bravesyntax.github.io/Validation-Contact-From/",
   },
 
   // {
