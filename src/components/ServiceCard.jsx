@@ -16,7 +16,7 @@ const ServiceCard = (props) => {
           <p className="text-sm font-md">{cardData.description}</p>
         </div>
         <a
-          href="https://github.com/Deepak-Angry-Coder"
+          href="https://github.com/bravesyntax"
           target="_blank"
           rel="noreferrer noopener"
           className="p-3 bg-slate-50 rounded-full border-2 border-slate-400 hover:border-slate-900 transition-all duration-200  ">
