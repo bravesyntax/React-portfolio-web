@@ -42,7 +42,7 @@ const Resume = () => {
             <div className="flex gap-4">
               <a
                 className="hover:bg-[white] transition-all border py-3 px-3 duration-500 hover:text-black cursor-pointer"
-                href="https://github.com/Deepak-Angry-Coder"
+                href="https://github.com/bravesyntax"
                 target="_blank"
                 rel="noreferrer noopener">
                 <svg
